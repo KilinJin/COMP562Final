@@ -7,7 +7,9 @@
 
 ### Appendix
 
-
+![image](https://github.com/KilinJin/FaceMorphing/blob/master/images/degeakarius.gif)
+![image](https://github.com/KilinJin/FaceMorphing/blob/master/images/slayers.gif)
+![image](https://github.com/KilinJin/FaceMorphing/blob/master/images/trumputin.gif)
 
 ## Acknowledgments
 
