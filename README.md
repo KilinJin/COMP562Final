@@ -18,6 +18,4 @@ The strucutres of the four model for attempt 3:
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+The raw dataset was collected from 300-W,AFW, HELEN, LFPW and IBUG. 
